@@ -23,22 +23,22 @@ class GetRequest:
 
     def getCarAdvert():
         carList=["https://www.sahibinden.com/fiat?pagingOffset=",
-         "https://www.sahibinden.com/hyundai?pagingOffset=",
-         "https://www.sahibinden.com/ford?pagingOffset=",
-         "https://www.sahibinden.com/honda?pagingOffset=",
-         "https://www.sahibinden.com/nissan?pagingOffset=",
-         "https://www.sahibinden.com/toyota?pagingOffset=",
-         "https://www.sahibinden.com/arazi-suv-pickup-dacia?pagingOffset=",
-         "https://www.sahibinden.com/arazi-suv-pickup-hyundai?pagingOffset=",
-         "https://www.sahibinden.com/arazi-suv-pickup-jeep?pagingOffset=", 
-         "https://www.sahibinden.com/arazi-suv-pickup-land-rover?pagingOffset=",
-         "https://www.sahibinden.com/arazi-suv-pickup-nissan?pagingOffset=",
-         "https://www.sahibinden.com/arazi-suv-pickup-volkswagen?pagingOffset=",
-         "https://www.sahibinden.com/bmw?pagingOffset=",
-         "https://www.sahibinden.com/mercedes-benz?pagingOffset=",
-         "https://www.sahibinden.com/audi?pagingOffset=",
-         "https://www.sahibinden.com/volkswagen?pagingOffset=",
-         "https://www.sahibinden.com/renault?pagingOffset="
+         "https://www.MALUMSARISİTE.com/hyundai?pagingOffset=",
+         "https://www.MALUMSARISİTE.com/ford?pagingOffset=",
+         "https://www.MALUMSARISİTE.com/honda?pagingOffset=",
+         "https://www.MALUMSARISİTE.com/nissan?pagingOffset=",
+         "https://www.MALUMSARISİTE.com/toyota?pagingOffset=",
+         "https://www.MALUMSARISİTE.com/arazi-suv-pickup-dacia?pagingOffset=",
+         "https://www.MALUMSARISİTE.com/arazi-suv-pickup-hyundai?pagingOffset=",
+         "https://www.MALUMSARISİTE.com/arazi-suv-pickup-jeep?pagingOffset=", 
+         "https://www.MALUMSARISİTE.com/arazi-suv-pickup-land-rover?pagingOffset=",
+         "https://www.MALUMSARISİTE.com/arazi-suv-pickup-nissan?pagingOffset=",
+         "https://www.MALUMSARISİTE.com/arazi-suv-pickup-volkswagen?pagingOffset=",
+         "https://www.MALUMSARISİTE.com/bmw?pagingOffset=",
+         "https://www.MALUMSARISİTE.com/mercedes-benz?pagingOffset=",
+         "https://www.MALUMSARISİTE.com/audi?pagingOffset=",
+         "https://www.MALUMSARISİTE.com/volkswagen?pagingOffset=",
+         "https://www.MALUMSARISİTE.com/renault?pagingOffset="
          
          ]
         criterias=["",
