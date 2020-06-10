@@ -1,11 +1,11 @@
 ### Installation
 
-Dillinger requires [Node.js](https://nodejs.org/) v4+ to run.
-
-Install the dependencies and devDependencies and start the server.
+Sahibinden-crawler requires [Python](https://www.python.org/) v3+ to run.
 
 ```sh
-$ cd dillinger
-$ npm install -d
-$ node app
+$ git clone https://github.com/feyzullahertan/sahibinden-crawler.git
+```
+Run it! :blush:
+```sh
+$ python main.py
 ```
