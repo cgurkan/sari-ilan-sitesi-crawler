@@ -16,6 +16,6 @@ Run it! :blush:
 $ python main.py
 ```
 ### TODO
-- [] Add database class
-- [] Add proxy list
-- [] Integrate multiprocessing
+- [ ] Add database class
+- [ ] Add proxy list
+- [ ] Integrate multiprocessing
